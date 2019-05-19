@@ -3,9 +3,9 @@ Combined Cycle Power Plant dataset contains 9568 data points collected from a Co
 <br>We are given:<br>
 1. A Readme file for more details on dataset. <br>
 2. A Training dataset csv file with X train and Y train data. <br>
-3. A X test File and you have to predict and submit predictions for this file. <br>
+3. A X test File and we have to make predictions for this file. <br>
 
 <br>The task is to:<br>
 1. Code Gradient Descent for N features and come with predictions.<br>
 2. Try and test with various combinations of learning rates and number of iterations.<br>
-3. Try using Feature Scaling, and see if it helps you in getting better results. <br>
+3. Try using Feature Scaling, and see if it helps us in getting better results. <br>
